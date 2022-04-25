@@ -42,3 +42,4 @@ Software: Google Colab, PostgreSQL, pgAdmin, AWS
 
 The majority of reviews for Furniture product are 99.6% are Non-Vine.
  5 Star reviews: 99.7% of all 5-star reviews are non-Vine.
+The summary states there is bias, and the results support this statement.
